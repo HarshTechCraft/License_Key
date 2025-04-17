@@ -1,0 +1,20 @@
+{
+  "abc123-my-key": {
+    "machineId": "508328018725",
+    "createdAt": "2025-04-16T16:41:30.065Z"
+  },
+  "abc123-my-key2": {
+    "machineId": "50832832018725",
+    "createdAt": "2025-04-16T20:50:44.980Z"
+  },
+  "abcdef": {
+    "machineId": "50832832018725",
+    "createdAt": "2025-04-17T04:02:59.855Z",
+    "isActive": true
+  },
+  "devpatel":{
+    "machineId": null,
+    "createdAt": null,
+    "isActive": false
+  }
+}
